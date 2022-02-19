@@ -6,4 +6,4 @@ Based off TeensySdioLogger example sketch.
 
 For button wiring USE 3.3V OR YOU WILL FRY THE PIN. Provided image shows current wiring:
 
-(https://user-images.githubusercontent.com/45497901/154790463-a99357e3-6f8f-4d50-b9d4-5b6acf8564f7.png)
+![image](https://user-images.githubusercontent.com/45497901/154790496-8538843e-05eb-4b07-854a-a8a9ebed1b7c.png)
