@@ -1,6 +1,6 @@
 # CSVLogger
 A dual Teensy 4.1 based sensor logger for use with the Colorado State University Formula SAE team car.
-Outputs to .CSV files (DUH it's in the name).
+Writes .csv logs to microsd card.
 Currently only logging Gyroscope and Accelerometer data.
 Uses I2C to communicate data between a dedicated sensor teensy and a dedicated logging teensy for better preformance.
 
